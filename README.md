@@ -1,7 +1,6 @@
 Aventura da Moeda Mágica
 
-Projeto desenvolvido para a disciplina de Pogramação Orientada a Objetos (PUCRS - 2025).  
-É um jogo textual de exploração com múltiplas salas, itens e enigmas, no qual o jogador deve obter uma moeda mágica guardada por um dragão sem acordá-lo.
+Jogo textual de exploração com múltiplas salas, itens e enigmas, no qual o jogador deve obter uma moeda mágica guardada por um dragão sem acordá-lo.
 
 Objetivo do jogo:
 
